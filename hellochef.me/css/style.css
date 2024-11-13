@@ -1,0 +1,362 @@
+.img1
+{
+ height: 60px;
+}
+.listitem{
+ display: inline;
+margin-right: 10px;
+}
+.div3{
+    background-image: url(../images/banner\ \(1\).webp);
+    background-size: cover;
+}
+.h1{
+    font-family: Poppins,Helvetica,Arial,sans-serif;
+     text-align: center;
+    color: rgb(76, 74, 74);
+     font-weight: 600;  
+}
+.h3{
+    font-family: Poppins,Helvetica,Arial,sans-serif;    text-align: center;
+    color: grey; 
+      font-weight: 300;    
+}
+.btn2{
+    padding: 10px;
+color: white;
+background-color: red;
+border-radius: 10px;
+border-style: none;
+font-size: 20px;
+} 
+.btn1{
+    padding: 10px;
+    background-color: red;
+    border-radius: 10px;
+    border-style: none;
+    font-size: 20px;
+    color:white;
+}
+.ul1{
+    text-align: end;
+font-family:Poppins,Helvetica,Arial,sans-serif;
+font-size: 16px;
+padding-left: 650px;
+font-weight: 400;
+}
+.divcontainer{
+    display: flex;
+}
+.h01{
+    font-weight: bold;
+    text-align: center;
+     font-family:Poppins,Helvetica,Arial,sans-serif;
+}
+.h03{
+    color: grey;
+    font-weight: 300;
+    text-align: center;
+    font-family: Poppins,Helvetica,Arial,sans-serif;
+} 
+.divcontainer1{
+    display: flex;
+}
+.img2{
+   
+    width: 60%;
+    height: 40%;
+    border-radius: 8px;
+}
+.img3{
+    
+    width: 60%;
+    height: 40%;
+    border-radius: 8px;
+}
+.img4{
+
+    width: 60%;
+    height: 40%;
+    border-radius: 8px;
+}
+
+.h001{
+    font-weight: 400;
+    text-align: justify;
+    font-family: Poppins,Helvetica,Arial,sans-serif;
+    margin-right: 20px;
+}
+.h003{
+margin-right: 30px;
+    font-size: medium;
+    color: grey;
+    font-family:  Poppins,Helvetica,Arial,sans-serif;
+}
+.h0001{
+    font-weight: 400;
+    text-align: justify;
+    font-family: Poppins,Helvetica,Arial,sans-serif;
+}
+.h0003{
+    margin-right: 30px;
+    color: grey;
+    font-size: medium;
+    font-family:  Poppins,Helvetica,Arial,sans-serif;
+}
+.h00001{
+    font-weight: 400;
+    text-align: justify;
+    font-family: Poppins,Helvetica,Arial,sans-serif;
+}
+.h00003{
+    margin-right: 30px;
+    color: grey;
+    font-size: medium;
+    font-family:  Poppins,Helvetica,Arial,sans-serif;
+}
+.div5{
+    align-items: center;
+    margin-left: 100px;
+    }
+
+.div6{
+    align-items: center;
+}
+.div7{
+    align-items: center;
+}
+.divcontainer2{
+    display: flex;
+    width: 100%;
+}
+.div8{ 
+     width: 50%;
+    height: 600px;
+    background-image:url(../images/Family_cooking.webp);
+    background-size: cover;
+}
+.div9{ 
+    padding-left: 90px;
+    width: 50%;
+    height: 600px;
+    background-color: rgb(255, 211, 219);
+background-size: cover;
+}
+.h000001{
+    text-align: justify
+    font-weight550;
+    color:  red;
+    font-family: Poppins,Helvetica,Arial,sans-serif;
+}
+.h2{ 
+    text-align: justify
+    font-size20px;
+    font-weight: 200;
+    font-family:  Poppins,Helvetica,Arial,sans-serif;
+}
+.h000003{ 
+    font-weight: 200;
+    font-family:  Poppins,Helvetica,Arial,sans-serif;
+    size: 20px;
+}
+.btn3{
+    align-items: center;
+    padding: 10px;
+    background-color: red;
+    border-radius: 10px;
+    border-style: none;
+    font-size: 20px;
+    color:white;
+    }
+    .h11{
+        text-align: center;
+        font-family:  Poppins,Helvetica,Arial,sans-serif;
+    }
+    .h33{
+        text-align: center;
+        font-size: 20;
+        font-weight: 100;
+        font-family:  Poppins,Helvetica,Arial,sans-serif;
+    }
+    .divcontainer3{
+    display: flex;
+    }
+    .img5{
+        border-radius: 10px;
+        width: 300px;
+        height: 200px;
+    }
+    .img6{
+        border-radius: 10px;
+        width: 300px;
+        height: 200px;
+    }
+    .img7{
+        
+        border-radius: 10px;
+        width: 300px;
+        height: 200px;
+    }
+    .btn4{
+    padding: 16px;
+    background-color: red;
+    border-radius: 10px;
+    border-style: none;
+    font-size: 20px;
+    color:white;
+    margin-left: 550px;
+
+    }
+    .div10{
+        background-image: url(../images/vegan.webp);
+        background-size: cover;
+        min-height: 200px;
+        width: 30%;
+        margin-left: 30px;
+        margin-right: 20px;
+        border-radius: 10px;
+         position: relative;
+    }
+    .div11{
+       background-image: url(../images/weekly_classic.webp);
+       background-size: cover;
+       width: 30%;
+       margin-left: 20px;
+       border-radius: 10px;
+       position: relative;
+    }
+    .div12{
+        background-image: url(../images/Vegetarian.webp);
+        background-size: cover;
+        width: 30%;
+        margin-left: 40px;
+        border-radius: 10px;
+        position: relative;
+    }
+    .h333{ 
+        width: fit-content;
+        background-color: greenyellow;
+        font-family: Poppins,Helvetica,Arial,sans-serif;
+        border-radius: 10px;
+        padding: 9px;
+        font-size: 16px;
+        position: absolute;
+        bottom: 0vh;
+        right: 7%;
+        color: rgb(66, 105, 8);
+    }
+    .h3333{ 
+        width: fit-content;
+        background-color: rgb(146, 222, 247);
+        font-family: Poppins,Helvetica,Arial,sans-serif;
+        border-radius: 10px;
+        padding: 9px;
+        font-size: 16px;
+        position: absolute;
+        bottom: 0vh;
+        right: 7%;
+        color: rgb(14, 89, 89);
+    }
+    .h31{
+        width: fit-content;
+         background-color: rgb(84, 250, 195);
+        font-family: Poppins,Helvetica,Arial,sans-serif;
+        border-radius: 10px;
+        padding: 9px;
+        font-size: 16px;
+        position: absolute;
+        bottom: 0vh;
+        right: 7%;
+        color:  rgb(16, 104, 75);;
+    } 
+    .div14{
+        background-color: rgb(206, 200, 200);
+        background-size: 100%;
+        display: flex;
+    
+    }
+    .img8{
+        width: 80px;
+        height: auto;
+        
+    }
+    .h111{ 
+        font-weight: 300;
+        color: rgb(74, 71, 71);
+        font-family: Poppins,Helvetica,Arial,sans-serif;
+        text-underline-position: below;
+        font-size: 50px;
+    }
+    .img9{
+        width: 200px;
+        height: 200px;
+        
+    }
+    .img10{
+        width: 200px;
+        height: 200px;
+    }
+    .img11{
+        width: 200px;
+        height: 200px;
+        
+    }
+    .img12{
+        width: 200px;
+        height: 200px;
+    }
+    .div15{
+       margin-top:150px;
+       margin-bottom: 300px;   
+    }
+    
+    *{
+        margin: 0;
+    }
+    .div16{
+        height: 100vh;
+        width: 100%;
+        background-image: url(../images/subscribe.webp);
+        position: relative;
+        background-size: cover;
+    }
+    .div17{
+        height: 200px;
+        width: 300px;
+        background-color: white;
+        position: absolute;
+        top: 30vh;
+        right: 20%; 
+        border-radius: 10px;
+        padding-top: 30px;
+        padding-bottom: 100px;
+        padding-left: 200px;
+        padding-right: 200px;
+    }
+    .div18{
+        position: absolute;
+        bottom: 7vh;
+        right: 8%; 
+        left: 8%;
+    }
+    .img13{
+        width: 200px;
+        margin-left: 500px;
+     }
+     .divlist{
+        display: flex;
+        justify-content: space-around;
+        font-family: Poppins,Helvetica,Arial,sans-serif;
+     }
+     .img14{
+        height: auto;
+        width: 100px;
+     }
+     .divlist2{
+        display: flex;
+        justify-content: space-around;
+        font-family: Poppins,Helvetica,Arial,sans-serif;
+     }
+     .divft{
+        text-align: center;
+     }
